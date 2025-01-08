@@ -1,7 +1,6 @@
-header_pages:
-  - index.html
-  - about.md => about.html
-  - study.html
+layout: page
+title: "Agenda"
+permalink: /agenda
 
 # Agenda
 
